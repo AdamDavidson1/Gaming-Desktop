@@ -1,0 +1,1472 @@
+2012-03-23 02:08:24 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:08:24 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/
+
+2012-03-23 02:08:24 -- TRACE-- Core : FORMAT= ACTION= CONTROLLER=
+
+2012-03-23 02:08:24 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:08:24 -- TRACE-- Core : LOADING DEFAULT ACTION: index
+
+2012-03-23 02:08:24 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:08:25 -- DEBUG-- Core : Took: 1332493705.019 ms
+
+2012-03-23 02:08:43 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:08:43 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/
+
+2012-03-23 02:08:43 -- TRACE-- Core : FORMAT= ACTION= CONTROLLER=
+
+2012-03-23 02:08:43 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:08:43 -- TRACE-- Core : LOADING DEFAULT ACTION: index
+
+2012-03-23 02:08:43 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:08:43 -- DEBUG-- Core : Took: 1332493723.161 ms
+
+2012-03-23 02:09:12 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:09:12 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/index
+
+2012-03-23 02:09:12 -- TRACE-- Core : FORMAT= ACTION=index CONTROLLER=
+
+2012-03-23 02:09:12 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:09:12 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:09:12 -- DEBUG-- Core : Took: 1332493752.7443 ms
+
+2012-03-23 02:09:17 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:09:17 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html
+
+2012-03-23 02:09:17 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:09:17 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:09:17 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:09:17 -- DEBUG-- Core : Took: 1332493757.9257 ms
+
+2012-03-23 02:09:47 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:09:47 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html
+
+2012-03-23 02:09:47 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:09:47 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:09:47 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:09:47 -- DEBUG-- Core : Took: 1332493787.4972 ms
+
+2012-03-23 02:09:54 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:09:54 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/
+
+2012-03-23 02:09:54 -- TRACE-- Core : FORMAT= ACTION= CONTROLLER=
+
+2012-03-23 02:09:54 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:09:54 -- TRACE-- Core : LOADING DEFAULT ACTION: index
+
+2012-03-23 02:09:54 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:09:54 -- DEBUG-- RootController : TEST
+
+2012-03-23 02:09:54 -- DEBUG-- Core : Took: 1332493794.1607 ms
+
+2012-03-23 02:10:24 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:10:24 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/
+
+2012-03-23 02:10:24 -- TRACE-- Core : FORMAT= ACTION= CONTROLLER=
+
+2012-03-23 02:10:24 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:10:24 -- TRACE-- Core : LOADING DEFAULT ACTION: index
+
+2012-03-23 02:10:24 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:10:24 -- DEBUG-- RootController : TEST
+
+2012-03-23 02:10:24 -- DEBUG-- Core : Took: 1332493824.5385 ms
+
+2012-03-23 02:11:25 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:11:25 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/
+
+2012-03-23 02:11:25 -- TRACE-- Core : FORMAT= ACTION= CONTROLLER=
+
+2012-03-23 02:11:25 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:11:25 -- TRACE-- Core : LOADING DEFAULT ACTION: index
+
+2012-03-23 02:11:25 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:11:25 -- DEBUG-- RootController : TEST
+
+2012-03-23 02:11:25 -- TRACE-- RootController : LOADING VIEW: index
+
+2012-03-23 02:11:25 -- DEBUG-- Core : Took: 1332493885.8139 ms
+
+2012-03-23 02:11:28 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:11:28 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:11:28 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:11:28 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:11:28 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:11:28 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:11:28 -- DEBUG-- Core : Took: 1332493888.3453 ms
+
+2012-03-23 02:14:36 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:14:36 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:14:36 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:14:36 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:14:36 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:14:36 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:14:36 -- DEBUG-- Core : Took: 1332494076.3245 ms
+
+2012-03-23 02:14:50 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:14:50 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:14:50 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:14:50 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:14:50 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:14:50 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:14:50 -- DEBUG-- Core : Took: 1332494090.5382 ms
+
+2012-03-23 02:15:16 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:15:16 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:15:16 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:15:16 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:15:16 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:15:16 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:15:16 -- DEBUG-- Core : Took: 1332494116.9065 ms
+
+2012-03-23 02:15:49 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:15:49 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:15:49 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:15:49 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:15:49 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:15:49 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:15:49 -- DEBUG-- Core : Took: 1332494149.3042 ms
+
+2012-03-23 02:15:56 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:15:56 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:15:56 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:15:56 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:15:56 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:15:56 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:15:56 -- DEBUG-- Core : Took: 1332494156.1315 ms
+
+2012-03-23 02:16:03 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:03 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:03 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:03 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:03 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:03 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:03 -- DEBUG-- Core : Took: 1332494163.7937 ms
+
+2012-03-23 02:16:13 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:13 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:13 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:13 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:13 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:13 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:13 -- DEBUG-- Core : Took: 1332494173.3052 ms
+
+2012-03-23 02:16:23 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:23 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:23 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:23 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:23 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:23 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:23 -- DEBUG-- Core : Took: 1332494183.0273 ms
+
+2012-03-23 02:16:29 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:29 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:29 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:29 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:29 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:29 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:29 -- DEBUG-- Core : Took: 1332494189.2977 ms
+
+2012-03-23 02:16:36 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:36 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:36 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:36 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:36 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:36 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:36 -- DEBUG-- Core : Took: 1332494196.4739 ms
+
+2012-03-23 02:16:56 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:16:56 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:16:56 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:16:56 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:16:56 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:16:56 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:16:56 -- DEBUG-- Core : Took: 1332494216.0475 ms
+
+2012-03-23 02:17:21 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:17:21 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:17:21 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:17:21 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:17:21 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:17:21 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:17:21 -- DEBUG-- Core : Took: 1332494241.9362 ms
+
+2012-03-23 02:17:42 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:17:42 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:17:42 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:17:42 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:17:42 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:17:42 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:17:42 -- DEBUG-- Core : Took: 1332494262.8491 ms
+
+2012-03-23 02:17:48 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:17:48 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:17:48 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:17:48 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:17:48 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:17:48 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:17:48 -- DEBUG-- Core : Took: 1332494268.4708 ms
+
+2012-03-23 02:18:38 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:18:38 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:18:38 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:18:38 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:18:38 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:18:38 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:18:38 -- DEBUG-- Core : Took: 1332494318.9117 ms
+
+2012-03-23 02:19:12 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:19:12 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:19:12 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:19:12 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:19:12 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:19:12 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:19:12 -- DEBUG-- Core : Took: 1332494352.257 ms
+
+2012-03-23 02:19:41 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:19:41 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:19:41 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:19:41 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:19:41 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:19:41 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:19:41 -- DEBUG-- Core : Took: 1332494381.8973 ms
+
+2012-03-23 02:20:04 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:20:04 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:20:04 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:20:04 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:20:04 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:20:04 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:20:04 -- DEBUG-- Core : Took: 1332494404.0387 ms
+
+2012-03-23 02:20:08 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:20:08 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:20:08 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:20:08 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:20:08 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:20:08 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:20:08 -- DEBUG-- Core : Took: 1332494408.6851 ms
+
+2012-03-23 02:20:12 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:20:12 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:20:12 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:20:12 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:20:12 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:20:12 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:20:12 -- DEBUG-- Core : Took: 1332494412.3855 ms
+
+2012-03-23 02:20:40 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:20:40 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:20:40 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:20:40 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:20:40 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:20:40 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:20:40 -- DEBUG-- Core : Took: 1332494440.7571 ms
+
+2012-03-23 02:20:58 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:20:58 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:20:58 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:20:58 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:20:58 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:20:58 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:20:58 -- DEBUG-- Core : Took: 1332494458.7414 ms
+
+2012-03-23 02:32:56 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:32:56 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:32:56 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:32:56 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:32:56 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:32:56 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:32:56 -- DEBUG-- Core : Took: 1332495176.2208 ms
+
+2012-03-23 02:33:27 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:33:27 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:33:27 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:33:27 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:33:27 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:33:27 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:33:27 -- DEBUG-- Core : Took: 1332495207.3169 ms
+
+2012-03-23 02:35:37 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:35:37 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:35:37 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:35:37 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:35:37 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:35:37 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:35:37 -- DEBUG-- Core : Took: 1332495337.8252 ms
+
+2012-03-23 02:35:54 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:35:54 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:35:54 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:35:54 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:35:54 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:35:54 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:35:54 -- DEBUG-- Core : Took: 1332495354.0858 ms
+
+2012-03-23 02:36:18 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:36:18 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:36:18 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:36:18 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:36:18 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:36:18 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:36:18 -- DEBUG-- Core : Took: 1332495378.1385 ms
+
+2012-03-23 02:36:36 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:36:36 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:36:36 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:36:36 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:36:36 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:36:36 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:36:36 -- DEBUG-- Core : Took: 1332495396.7757 ms
+
+2012-03-23 02:38:17 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:38:17 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:38:17 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:38:17 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:38:17 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:38:17 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:38:17 -- DEBUG-- Core : Took: 1332495497.0984 ms
+
+2012-03-23 02:39:31 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:39:31 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:39:31 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:39:31 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:39:31 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:39:31 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:39:31 -- DEBUG-- Core : Took: 1332495571.8995 ms
+
+2012-03-23 02:40:57 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:40:57 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:40:57 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:40:57 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:40:57 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:40:57 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:40:57 -- DEBUG-- Core : Took: 1332495657.4915 ms
+
+2012-03-23 02:41:16 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:41:16 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:41:16 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:41:16 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:41:16 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:41:16 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:41:16 -- DEBUG-- Core : Took: 1332495676.8077 ms
+
+2012-03-23 02:41:38 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:41:38 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:41:38 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:41:38 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:41:38 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:41:38 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:41:38 -- DEBUG-- Core : Took: 1332495698.5222 ms
+
+2012-03-23 02:42:07 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:42:07 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:42:07 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:42:07 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:42:07 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:42:07 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:42:07 -- DEBUG-- Core : Took: 1332495727.0793 ms
+
+2012-03-23 02:42:23 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:42:23 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:42:23 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:42:23 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:42:23 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:42:23 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:42:23 -- DEBUG-- Core : Took: 1332495743.776 ms
+
+2012-03-23 02:42:58 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:42:58 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:42:58 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:42:58 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:42:58 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:42:58 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:42:58 -- DEBUG-- Core : Took: 1332495778.9318 ms
+
+2012-03-23 02:43:40 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:43:40 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:43:40 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:43:40 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:43:40 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:43:40 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:43:40 -- DEBUG-- Core : Took: 1332495820.4161 ms
+
+2012-03-23 02:43:46 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:43:46 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:43:46 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:43:46 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:43:46 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:43:46 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:43:46 -- DEBUG-- Core : Took: 1332495826.6565 ms
+
+2012-03-23 02:43:52 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:43:52 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:43:52 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:43:52 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:43:52 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:43:52 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:43:52 -- DEBUG-- Core : Took: 1332495832.7069 ms
+
+2012-03-23 02:45:11 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:45:11 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:45:11 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:45:11 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:45:11 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:45:11 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:45:11 -- DEBUG-- Core : Took: 1332495911.9638 ms
+
+2012-03-23 02:48:01 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:48:01 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:48:01 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:48:01 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:48:01 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:48:01 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:48:01 -- DEBUG-- Core : Took: 1332496081.5679 ms
+
+2012-03-23 02:48:22 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:48:22 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:48:22 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:48:22 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:48:22 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:48:22 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:48:22 -- DEBUG-- Core : Took: 1332496102.7672 ms
+
+2012-03-23 02:49:30 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:49:30 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:49:30 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:49:30 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:49:30 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:49:30 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:49:30 -- DEBUG-- Core : Took: 1332496170.6173 ms
+
+2012-03-23 02:50:30 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:50:30 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:50:30 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:50:30 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:50:30 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:50:30 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:50:30 -- DEBUG-- Core : Took: 1332496230.4546 ms
+
+2012-03-23 02:57:39 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:57:39 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:57:39 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:57:39 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:57:39 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:57:39 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:57:39 -- DEBUG-- Core : Took: 1332496659.5508 ms
+
+2012-03-23 02:57:49 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:57:49 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:57:49 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:57:49 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:57:49 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:57:49 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:57:49 -- DEBUG-- Core : Took: 1332496669.1999 ms
+
+2012-03-23 02:58:05 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:58:05 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:58:05 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:58:05 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:58:05 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:58:05 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:58:05 -- DEBUG-- Core : Took: 1332496685.5582 ms
+
+2012-03-23 02:58:25 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:58:25 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:58:25 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:58:25 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:58:25 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:58:25 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:58:25 -- DEBUG-- Core : Took: 1332496705.3425 ms
+
+2012-03-23 02:58:35 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:58:35 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:58:35 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:58:35 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:58:35 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:58:35 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:58:35 -- DEBUG-- Core : Took: 1332496715.4461 ms
+
+2012-03-23 02:58:57 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 02:58:57 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 02:58:57 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 02:58:57 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 02:58:57 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 02:58:57 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 02:58:57 -- DEBUG-- Core : Took: 1332496737.3946 ms
+
+2012-03-23 03:01:20 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:01:20 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:01:20 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:01:20 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:01:20 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:01:20 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:01:20 -- DEBUG-- Core : Took: 1332496880.4741 ms
+
+2012-03-23 03:01:56 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:01:56 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:01:56 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:01:56 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:01:56 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:01:56 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:01:56 -- DEBUG-- Core : Took: 1332496916.518 ms
+
+2012-03-23 03:02:13 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:02:13 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:02:13 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:02:13 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:02:13 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:02:13 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:02:13 -- DEBUG-- Core : Took: 1332496933.3662 ms
+
+2012-03-23 03:03:02 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:03:02 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:03:02 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:03:02 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:03:02 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:03:02 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:03:02 -- DEBUG-- Core : Took: 1332496982.538 ms
+
+2012-03-23 03:06:55 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:06:55 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:06:55 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:06:55 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:06:55 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:06:55 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:06:55 -- DEBUG-- Core : Took: 1332497215.854 ms
+
+2012-03-23 03:09:02 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:09:02 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:09:02 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:09:02 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:09:02 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:09:02 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:09:02 -- DEBUG-- Core : Took: 1332497342.5315 ms
+
+2012-03-23 03:09:32 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:09:32 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:09:32 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:09:32 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:09:32 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:09:32 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:09:32 -- DEBUG-- Core : Took: 1332497372.0406 ms
+
+2012-03-23 03:11:54 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:11:54 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:11:54 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:11:54 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:11:54 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:11:54 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:11:54 -- DEBUG-- Core : Took: 1332497514.2222 ms
+
+2012-03-23 03:13:03 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:13:03 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:13:03 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:13:03 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:13:03 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:13:03 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:13:03 -- DEBUG-- Core : Took: 1332497583.4803 ms
+
+2012-03-23 03:13:51 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:13:51 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:13:51 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:13:51 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:13:51 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:13:51 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:13:51 -- DEBUG-- Core : Took: 1332497631.8319 ms
+
+2012-03-23 03:14:35 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:14:35 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:14:35 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:14:35 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:14:35 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:14:35 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:14:35 -- DEBUG-- Core : Took: 1332497675.8554 ms
+
+2012-03-23 03:15:12 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:15:12 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:15:12 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:15:12 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:15:12 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:15:12 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:15:12 -- DEBUG-- Core : Took: 1332497712.0822 ms
+
+2012-03-23 03:15:49 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:15:49 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:15:49 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:15:49 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:15:49 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:15:49 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:15:49 -- DEBUG-- Core : Took: 1332497749.1783 ms
+
+2012-03-23 03:22:30 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:22:30 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:22:30 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:22:30 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:22:30 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:22:30 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:22:30 -- DEBUG-- Core : Took: 1332498150.4671 ms
+
+2012-03-23 03:23:05 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:23:05 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:23:05 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:23:05 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:23:05 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:23:05 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:23:05 -- DEBUG-- Core : Took: 1332498185.9505 ms
+
+2012-03-23 03:23:56 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:23:56 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:23:56 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:23:56 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:23:56 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:23:56 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:23:56 -- DEBUG-- Core : Took: 1332498236.3341 ms
+
+2012-03-23 03:25:05 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:25:05 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:25:05 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:25:05 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:25:05 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:25:05 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:25:05 -- DEBUG-- Core : Took: 1332498305.3134 ms
+
+2012-03-23 03:25:51 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-23 03:25:51 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-23 03:25:51 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-23 03:25:51 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-23 03:25:51 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-23 03:25:51 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-23 03:25:51 -- DEBUG-- Core : Took: 1332498351.5412 ms
+
+2012-03-25 23:06:33 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-25 23:06:33 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-25 23:06:33 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-25 23:06:33 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-25 23:06:33 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-25 23:06:33 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-25 23:06:33 -- DEBUG-- Core : Took: 1332741993.9049 ms
+
+2012-03-26 19:11:12 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:11:12 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:11:12 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:11:12 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:11:12 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:11:12 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:11:12 -- DEBUG-- Core : Took: 1332814272.6198 ms
+
+2012-03-26 19:19:39 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:19:39 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:19:39 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:19:39 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:19:39 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:19:39 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:19:39 -- DEBUG-- Core : Took: 1332814779.1464 ms
+
+2012-03-26 19:22:03 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:22:03 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:22:03 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:22:03 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:22:03 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:22:03 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:22:03 -- DEBUG-- Core : Took: 1332814923.4365 ms
+
+2012-03-26 19:28:35 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:28:35 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:28:35 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:28:35 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:28:35 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:28:35 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:28:35 -- DEBUG-- Core : Took: 1332815315.7279 ms
+
+2012-03-26 19:34:55 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:34:55 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:34:55 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:34:55 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:34:55 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:34:55 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:34:55 -- DEBUG-- Core : Took: 1332815695.159 ms
+
+2012-03-26 19:36:30 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-26 19:36:30 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-26 19:36:30 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-26 19:36:30 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-26 19:36:30 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-26 19:36:30 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-26 19:36:30 -- DEBUG-- Core : Took: 1332815790.9242 ms
+
+2012-03-28 01:05:59 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:05:59 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:05:59 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:05:59 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:05:59 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:05:59 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:05:59 -- DEBUG-- Core : Took: 1332921959.7552 ms
+
+2012-03-28 01:06:19 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:06:19 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:06:19 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:06:19 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:06:19 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:06:19 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:06:19 -- DEBUG-- Core : Took: 1332921979.9723 ms
+
+2012-03-28 01:07:20 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:07:20 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:07:20 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:07:20 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:07:20 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:07:20 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:07:20 -- DEBUG-- Core : Took: 1332922040.9358 ms
+
+2012-03-28 01:07:52 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:07:52 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:07:52 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:07:52 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:07:52 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:07:52 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:07:52 -- DEBUG-- Core : Took: 1332922072.6002 ms
+
+2012-03-28 01:08:02 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:08:02 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:08:02 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:08:02 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:08:02 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:08:02 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:08:02 -- DEBUG-- Core : Took: 1332922082.9231 ms
+
+2012-03-28 01:10:36 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:10:36 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:10:36 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:10:36 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:10:36 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:10:36 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:10:36 -- DEBUG-- Core : Took: 1332922236.9238 ms
+
+2012-03-28 01:10:50 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:10:50 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:10:50 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:10:50 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:10:50 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:10:50 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:10:50 -- DEBUG-- Core : Took: 1332922250.3924 ms
+
+2012-03-28 01:11:43 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:11:43 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:11:43 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:11:43 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:11:43 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:11:43 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:11:43 -- DEBUG-- Core : Took: 1332922303.8903 ms
+
+2012-03-28 01:12:07 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:12:07 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:12:07 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:12:07 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:12:07 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:12:07 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:12:07 -- DEBUG-- Core : Took: 1332922327.072 ms
+
+2012-03-28 01:14:49 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:14:49 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:14:49 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:14:49 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:14:49 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:14:49 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:14:49 -- DEBUG-- Core : Took: 1332922489.9873 ms
+
+2012-03-28 01:18:06 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:18:06 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:18:06 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:18:06 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:18:06 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:18:06 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:18:06 -- DEBUG-- Core : Took: 1332922686.5341 ms
+
+2012-03-28 01:18:25 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:18:25 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:18:25 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:18:25 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:18:25 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:18:25 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:18:25 -- DEBUG-- Core : Took: 1332922705.701 ms
+
+2012-03-28 01:18:49 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:18:49 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:18:49 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:18:49 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:18:49 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:18:49 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:18:49 -- DEBUG-- Core : Took: 1332922729.3149 ms
+
+2012-03-28 01:22:23 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:22:23 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:22:23 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:22:23 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:22:23 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:22:23 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:22:23 -- DEBUG-- Core : Took: 1332922943.8803 ms
+
+2012-03-28 01:31:48 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 01:31:48 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 01:31:48 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 01:31:48 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 01:31:48 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 01:31:48 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 01:31:48 -- DEBUG-- Core : Took: 1332923508.4161 ms
+
+2012-03-28 13:37:35 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 13:37:35 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 13:37:35 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 13:37:35 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 13:37:35 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 13:37:35 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 13:37:35 -- DEBUG-- Core : Took: 1332967055.5782 ms
+
+2012-03-28 16:41:29 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 16:41:29 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 16:41:29 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 16:41:29 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 16:41:29 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 16:41:29 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 16:41:29 -- DEBUG-- Core : Took: 1332978089.1764 ms
+
+2012-03-28 17:11:08 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 17:11:08 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 17:11:08 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 17:11:08 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 17:11:08 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 17:11:08 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 17:11:08 -- DEBUG-- Core : Took: 1332979868.7047 ms
+
+2012-03-28 17:12:01 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 17:12:01 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 17:12:01 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 17:12:01 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 17:12:01 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 17:12:01 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 17:12:01 -- DEBUG-- Core : Took: 1332979921.6935 ms
+
+2012-03-28 17:12:18 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 17:12:18 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=2
+
+2012-03-28 17:12:18 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 17:12:18 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 17:12:18 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 17:12:18 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 17:12:18 -- DEBUG-- Core : Took: 1332979938.653 ms
+
+2012-03-28 17:13:01 -- TRACE-- Core : ---------------------------------STARTING REQUEST-----------------------------------
+
+2012-03-28 17:13:01 -- TRACE-- Core : URL REQUEST: http://localhost/gaming/table.html?id=1
+
+2012-03-28 17:13:01 -- TRACE-- Core : FORMAT=html ACTION=table CONTROLLER=
+
+2012-03-28 17:13:01 -- TRACE-- Core : LOADING ROOT CONTROLLER: root
+
+2012-03-28 17:13:01 -- TRACE-- Core : LOADED CONTROLLER: root
+
+2012-03-28 17:13:01 -- TRACE-- RootController : LOADING VIEW: table
+
+2012-03-28 17:13:01 -- DEBUG-- Core : Took: 1332979981.9978 ms
+

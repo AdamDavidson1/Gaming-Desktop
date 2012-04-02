@@ -1,0 +1,9 @@
+INSTALLATION of FrameD PHP Framework
+
+Just uncompress the framework and you should be ready to start programming. You will need to follow the core/app items to start your application development. I would recommend just coping core/app/controllers/root.php into app/controllers so you have something to work with. You will also need to have a views folder.
+
+To build models:
+cd utils; ./cli.php --action build_models --name {*CONFIG DB NAME*}
+
+This will pull from the config and connect to the Database and build models based on the tables in the Database.
+Edit config/environment.ini and add all the config into the environment so that you can build models.

@@ -1,0 +1,103 @@
+[26-Mar-2012 19:09:43] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:09:43] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:09:43] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:09:43] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:09:43] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:09:43] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:09:43] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:09:43] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:09:43] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:09:43] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:09:43] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:09:43] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:10:17] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:10:17] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:10:17] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:10:17] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:10:17] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:10:17] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:10:17] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:10:17] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:10:17] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:10:17] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:10:17] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:10:17] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:19:49] PHP Warning:  socket_read(): unable to read from socket [54]: Connection reset by peer in /www/gaming/app/controllers/socket.php on line 48
+[26-Mar-2012 19:21:42] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:42] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:42] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:42] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:42] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:42] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:42] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:42] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:42] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:42] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:42] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:42] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:46] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:46] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:46] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:46] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:46] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:46] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:46] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:46] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:46] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:21:46] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[26-Mar-2012 19:21:46] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[26-Mar-2012 19:21:46] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[26-Mar-2012 19:22:13] PHP Warning:  socket_read(): unable to read from socket [54]: Connection reset by peer in /www/gaming/app/controllers/socket.php on line 48
+[28-Mar-2012 01:22:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:22:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:22:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:22:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:22:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:22:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:22:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:22:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:22:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:22:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:22:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:22:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:22:33] PHP Warning:  socket_read(): unable to read from socket [54]: Connection reset by peer in /www/gaming/app/controllers/socket.php on line 48
+[28-Mar-2012 01:28:55] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:28:55] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:28:55] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:28:55] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:28:55] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:28:55] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:28:55] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:28:55] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:28:55] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:28:55] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:28:55] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:28:55] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:31:56] PHP Warning:  socket_read(): unable to read from socket [54]: Connection reset by peer in /www/gaming/app/controllers/socket.php on line 48
+[28-Mar-2012 01:31:56] PHP Warning:  socket_bind(): unable to bind address [48]: Address already in use in /www/gaming/app/controllers/socket.php on line 54
+[28-Mar-2012 01:34:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:09] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:09] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:09] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:09] PHP Warning:  socket_bind(): unable to bind address [48]: Address already in use in /www/gaming/app/controllers/socket.php on line 26
+[28-Mar-2012 01:34:30] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:30] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:30] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:30] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:30] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:30] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:30] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:30] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:30] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:30] PHP Warning:  fopen(logs/core.log): failed to open stream: Permission denied in /www/gaming/core/logger.php on line 108
+[28-Mar-2012 01:34:30] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 110
+[28-Mar-2012 01:34:30] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /www/gaming/core/logger.php on line 112
+[28-Mar-2012 01:34:30] PHP Warning:  socket_bind(): unable to bind address [48]: Address already in use in /www/gaming/app/controllers/socket.php on line 26

@@ -1,0 +1,35 @@
+body{
+	font-family: Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+#main{
+	border: 1px solid #ccc;
+	box-shadow: 0 0 1px 1px #ccc;
+	height: 100%;
+	border-radius: 3px;
+}
+#chat{
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	width: 500px;
+	background: #ddd;
+}
+#chat-input{
+	width: 97%;
+	margin: 0 0 5px 5px;
+	border: 1px solid #ccc;
+}
+#display{
+	margin: 8px 5px;
+	border: 1px solid #ccc;
+	height: 300px;
+	border-radius: 3px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: #fff;
+	line-height: 18px;
+}
+.title{
+	margin: 5px;
+	font-size: 16px;
+	font-weight: bold;
+}

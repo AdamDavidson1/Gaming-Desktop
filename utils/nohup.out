@@ -1,0 +1,4 @@
+socket_read() failed: reason: Connection reset by peer
+socket_read() failed: reason: Connection reset by peer
+socket_bind() failed: reason: Address already in use
+Could not bind to addressCould not bind to address

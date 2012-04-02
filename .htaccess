@@ -1,0 +1,39 @@
+# Turn on Expires and set default to 0
+ExpiresActive On
+ExpiresDefault A0
+
+# Set up caching on media files for 1 year (forever?)
+<FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav)$">
+ExpiresDefault A29030400
+Header append Cache-Control "public"
+</FilesMatch>
+
+# Set up caching on media files for 1 week
+<FilesMatch "\.(gif|jpg|jpeg|png|swf|js|css)$">
+ExpiresDefault A604800
+Header append Cache-Control "public"
+</FilesMatch>
+
+# Set up 2 Hour caching on commonly updated files
+<FilesMatch "\.(xml|txt|html|)$">
+ExpiresDefault A7200
+Header append Cache-Control "proxy-revalidate"
+</FilesMatch>
+
+
+RewriteEngine On
+
+#RewriteCond %{HTTP_HOST} !^www\.(.*) [NC]
+#RewriteRule .* http://www.%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
+# Local files that dont need to run through FrameD
+RewriteRule ^(favicon\.ico|robots\.txt|sitemap\.xml\.gz|sitemap\.xml|sitemap\.txt) www/$1  [QSA,L]
+
+# Excluded Directories from FrameD
+RewriteRule (docs|style|images|swf|pdf|data|js|pub|stats)/(.*) www/$1/$2  [QSA,L]
+
+RewriteRule ^(www)/(.*) - [PT]
+RewriteRule ^(401\.shtml) - [PT]
+#RewriteRule ^$ index.php [QSA]
+RewriteRule ([^/]+)/([^.]+)?\.?(.*)? lib/api.php?controller=$1&action=$2&format=$3 [QSA,L]
+RewriteRule ([^.]+)?\.?(.*)? lib/api.php?controller=&action=$1&format=$2 [QSA,L]
